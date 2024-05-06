@@ -1,4 +1,4 @@
-# Face-Recognition-OpenCv
+# Face Recognition and Liveliness Detection using OpenCV
 
 - Create `dataset` folder in the root folder
 - Create `trainer.yml` in the trainer folder
